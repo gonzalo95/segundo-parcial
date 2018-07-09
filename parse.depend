@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1530981456 source:c:\users\planta alta\desktop\nuevo\parse\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530915517 c:\users\planta alta\desktop\nuevo\parse\arraylist.h
+
+1530903741 source:c:\users\planta alta\desktop\nuevo\parse\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"parse.h"
+	"empleado.h"
+
+1530983025 c:\users\planta alta\desktop\nuevo\parse\parse.h
+	"ArrayList.h"
+
+1530901906 c:\users\planta alta\desktop\nuevo\parse\empleado.h
+
+1530983044 source:c:\users\planta alta\desktop\nuevo\parse\parse.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayList.h"
+	"parse.h"
+	"empleado.h"
+
+1530981610 source:c:\users\planta alta\desktop\nuevo\parse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"parse.h"
+	"empleado.h"
+
